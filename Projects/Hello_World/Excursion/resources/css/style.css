@@ -1,0 +1,82 @@
+body {
+background-color: black;
+margin: 0 auto;
+}
+
+/* Combine */
+
+h1,
+h2,
+h3,
+h4 {
+text-align: center;
+text-transform: capitalize;
+}
+
+/* Heading */
+
+h1 {
+  color: white;
+  font-size: 2.8rem;
+  font-weight: normal;
+  color: silver;
+  font-family: 'Berkshire Swash', cursive;
+}
+
+h2 {
+  color: aqua;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 2rem;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-right: 1rem;
+  text-transform: capitalize;
+}
+
+h3 {
+  color: silver;
+  font-size: 1.499rem;
+  font-family: 'Oleo Script', cursive;
+  font-weight: bold;
+}
+
+/* Anchor Tags */
+
+a {
+  font-size: 1.2rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  font-weight: bold;
+  color: aquamarine;
+}
+
+a:hover {
+background-color: aqua;
+color: maroon;
+}
+
+/* Video */
+
+video {
+margin-left: 26rem;
+}
+
+/* Images */
+
+img {
+display: block;
+margin-left: 11rem;
+}
+
+.phone img {
+margin-left: 37rem;
+margin-top: 3rem;
+}
+
+h5 {
+text-align: right;
+font-family: Verdana;
+color: White;
+font-size: 1rem;
+font-style: italic;
+margin-right: 1rem;
+}
